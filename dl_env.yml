@@ -1,0 +1,21 @@
+name: dl_env            # default is root
+channels:
+    - conda
+    - soumith
+dependencies:         # everything under this, installed by conda
+    - numpy
+    - scipy
+    - pandas
+    - Tensorflow
+    - matplotlib
+    - keras
+    - scikit-learn
+    - seaborn
+    - xlrd
+    - pytorch
+    - torchvision
+    - pip:                # everything under this, installed by pip
+        - pillow
+        - gym
+        - gensim
+        - torchsummary
