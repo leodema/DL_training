@@ -2,13 +2,15 @@
 
 A collections of resources to understand Neural Network.
 
+Presentation: https://drive.google.com/drive/folders/1qvF70ZiciQM4BbDqOWqmSE7E5H2uv2fX?usp=sharing
+
 ## Getting Started
 
 ### Prerequisites
 
 Install conda https://docs.anaconda.com/anaconda/install/ for python 3.6.
 
-Make sure you have added theforge channel:
+Make sure you have added theforge channel: 
 
 ```
 conda config --append channels conda-forge
@@ -17,7 +19,7 @@ conda config --append channels conda-forge
 Then in the projec directory run:
 
 ```
-conda create --name dl_env python=3.6 --file enviroment.yaml
+conda env create --name dl_env python=3.6 --file dl_env.yml
 ```
 
 This will create our conda enviroment.
