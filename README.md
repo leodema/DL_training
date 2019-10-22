@@ -6,6 +6,10 @@ Presentation: https://drive.google.com/drive/folders/1qvF70ZiciQM4BbDqOWqmSE7E5H
 
 ## Getting Started
 
+### Slides
+
+https://drive.google.com/drive/u/1/folders/1d2KK9VzWeueTnDu3x6mddWFZFF8JQrvG
+
 ### Prerequisites
 
 Install conda https://docs.anaconda.com/anaconda/install/ for python 3.6.
