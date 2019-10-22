@@ -44,7 +44,7 @@ conda activate dl_env
 To run tensorboard simply type:
 
 ```
-tensorboard --logdir logs/1
+tensorboard --logdir logs
 ```
 
 ## Contributing
