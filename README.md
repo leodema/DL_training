@@ -50,3 +50,8 @@ tensorboard --logdir logs
 ## Contributing
 
 Feel free to contribute with a pull request.
+
+### Meetups
+
+https://www.meetup.com/LondonArtificialIntelligence/
+https://www.meetup.com/London-Reinforcement-Learning/
